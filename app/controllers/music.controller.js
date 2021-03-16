@@ -1,5 +1,5 @@
 const Music = require('../models/music.model');
-
+console.log('h6')
 //Create and save a new music
 
 exports.create = (req, res) => {
